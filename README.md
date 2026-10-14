@@ -1,4 +1,4 @@
-AI-augmented time-series forecasting platform using LLM-powered reasoning engine - ollama 3.2
+AI-augmented time-series forecasting Dashboard using LLM-powered reasoning engine - ollama 3.2
 
 Project Overview
 
