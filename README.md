@@ -2,15 +2,15 @@ AI-augmented time-series forecasting Dashboard using LLM-powered reasoning engin
 
 Project Overview
 
-This project analyzes and forecasts hourly energy demand using statistical and machine learning–based time series models, then layers an AI reasoning engine on top so the results can be queried, explained, and reported on in plain English through an interactive web dashboard.
+This project analyzes and forecasts Sales data using statistical and machine learning–based time series models, then layers an AI reasoning engine on top so the results can be queried, explained, and reported on in plain English through an interactive web dashboard.
 
 The study follows a systematic approach: data preprocessing, stationarity testing, model development and benchmarking across five forecasting approaches, residual diagnostics, evaluation using multiple performance metrics, and — new in this version — an integrated AI layer that generates explainable insights, answers natural-language questions about the models, and produces decision-ready reports.
 
 📂 Dataset Information
-Source: NITI Aayog – Government of India
-Description: Hourly electricity demand readings from national energy records.
-Purpose: Understand temporal variations in energy consumption and forecast future demand.
-Frequency: Hourly
+Source: Sales Data From Scratch 
+Description: Sales, profit, customerid, unit sales, region, category and so on.. etc.
+Purpose: Understand temporal variations in sales and forecast future demand.
+Frequency: Next Monthly, Quaterly, Yearly
 Data Format: Time-indexed CSV/Excel data
 🧪 Statistical Tests Performed
 
